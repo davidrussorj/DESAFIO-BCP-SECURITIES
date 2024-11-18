@@ -6,8 +6,8 @@ from datetime import date
 
 # Lista de feriados fixos
 HOLIDAYS = [
-    date(2024, 11, 15),  # Ano Novo
-    date(2024, 4, 21), # Tiradentes
+    date(2024, 11, 15),  
+    date(2024, 4, 21), 
     date(2024, 5, 1),  # Dia do Trabalho
     # Adicione outros feriados fixos e móveis aqui
 ]
